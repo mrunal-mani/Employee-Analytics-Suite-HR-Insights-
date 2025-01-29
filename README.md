@@ -1,4 +1,4 @@
-# HR Analytics Project
+# Employee Analytics Suite (HR-Insights)
 
 ## Project Overview
 
